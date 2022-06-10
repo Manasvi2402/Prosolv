@@ -1,0 +1,10 @@
+702103752084-nmdke9pl1di6rtuqj5km1bp8qrhbp8in.apps.googleusercontent.com - IoS
+702103752084-g4g3tik3k203uoaed09ip3in9q91601u.apps.googleusercontent.com - Android
+2a:ec:d1:cd:d0:46:05:d2:ea:83:34:aa:57:d4:23:22:c0:bb:8a:d9 - fingerprint
+
+
+settings screen
+database
+logout
+change theme
+like functionality 
